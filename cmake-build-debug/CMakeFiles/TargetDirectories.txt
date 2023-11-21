@@ -1,0 +1,3 @@
+C:/Users/makun/CLionProjects/helper/cmake-build-debug/CMakeFiles/helper.dir
+C:/Users/makun/CLionProjects/helper/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/makun/CLionProjects/helper/cmake-build-debug/CMakeFiles/rebuild_cache.dir

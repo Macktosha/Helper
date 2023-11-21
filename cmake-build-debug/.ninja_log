@@ -1,0 +1,15 @@
+# ninja log v5
+7	678	7223036231597949	CMakeFiles/helper.dir/main.cpp.obj	86e897c5c468fa36
+10	994	7223031682192370	CMakeFiles/helper.dir/Expression.cpp.obj	42edccd1da054b45
+15	1070	7223031683214410	CMakeFiles/helper.dir/TrafficLightDelay.cpp.obj	8d41fa13c88322e
+684	796	7223036232745509	helper.exe	7805805503d89291
+13	650	7223036231348520	CMakeFiles/helper.dir/computing/TrafficLightDelay.cpp.obj	f2665707bedf236a
+24	684	7223036231618047	CMakeFiles/helper.dir/computing/TrafficIntesity.cpp.obj	179708915e390fe3
+10	967	7223058814269212	CMakeFiles/helper.dir/computing/TrafficLightDelay.cpp.obj	f2665707bedf236a
+15	975	7223058814319597	CMakeFiles/helper.dir/computing/TrafficIntesity.cpp.obj	179708915e390fe3
+10	954	7223058947933163	CMakeFiles/helper.dir/computing/TrafficLightRegulatoryAndTheoreticalBandwith.cpp.obj	5e91bf430798a128
+4	968	7223058947923183	CMakeFiles/helper.dir/main.cpp.obj	86e897c5c468fa36
+14	980	7223058948063408	CMakeFiles/helper.dir/computing/RealBandwith.cpp.obj	9a44132ab1fb0127
+955	1697	7223058955083865	CMakeFiles/helper.dir/computing/Bandwidth.cpp.obj	80aac29db7e49893
+6	999	7223059124885463	CMakeFiles/helper.dir/computing/BusyLevel.cpp.obj	702073d603a7a218
+1000	1172	7223059126468072	helper.exe	e99880d836101562
